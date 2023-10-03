@@ -3,15 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - eq
+  - wood
+  - fireball
+  - body
+  - stone
+  - glass
+  - metall_door
+  - wood_door
+  - dirt
+  - metall
+  - wood_door_glass
+  - petrol
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - chao
+  - item
   - Water
   - UI
-  - 
+  - cenario
   - 
   - 
   - 
